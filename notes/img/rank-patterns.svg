@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" font-family="-apple-system, 'PingFang TC', 'Noto Sans TC', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<rect width="1000" height="600" fill="#fff"/>
+<text x="20" y="28" fill="#222" font-size="15" font-weight="600" text-anchor="start">秩 = 這張表裡有幾種獨立的「花樣」。把表的每一列畫成一排長條（A、B、C、D 四欄的高度），看形狀。</text>
+<rect x="20" y="46" width="310" height="440" fill="#fbfbfb" stroke="#e2e2e2" rx="6"/>
+<text x="34" y="70" fill="#222" font-size="15" font-weight="600" text-anchor="start">① 秩 1</text>
+<text x="34" y="90" fill="#555" font-size="12" font-weight="400" text-anchor="start">三列形狀一樣，只差高度</text>
+<text x="34" y="112" fill="#555" font-size="12" font-weight="400" text-anchor="start">表的三列：</text>
+<rect x="42.0" y="193.0" width="14" height="12.0" fill="#2a9d8f" stroke="none"/>
+<rect x="60.0" y="199.0" width="14" height="6.0" fill="#2a9d8f" stroke="none"/>
+<rect x="78.0" y="187.0" width="14" height="18.0" fill="#2a9d8f" stroke="none"/>
+<rect x="96.0" y="181.0" width="14" height="24.0" fill="#2a9d8f" stroke="none"/>
+<line x1="39" y1="205" x2="113" y2="205" stroke="#999"/>
+<text x="49.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="49.0" y="190" fill="#333" font-size="10" font-weight="400" text-anchor="middle">2</text>
+<text x="67.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="67.0" y="196" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="85.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="85.0" y="184" fill="#333" font-size="10" font-weight="400" text-anchor="middle">3</text>
+<text x="103.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="103.0" y="178" fill="#333" font-size="10" font-weight="400" text-anchor="middle">4</text>
+<text x="76.0" y="233" fill="#222" font-size="13" font-weight="600" text-anchor="middle">甲</text>
+<rect x="138.0" y="181.0" width="14" height="24.0" fill="#2a9d8f" stroke="none"/>
+<rect x="156.0" y="193.0" width="14" height="12.0" fill="#2a9d8f" stroke="none"/>
+<rect x="174.0" y="169.0" width="14" height="36.0" fill="#2a9d8f" stroke="none"/>
+<rect x="192.0" y="157.0" width="14" height="48.0" fill="#2a9d8f" stroke="none"/>
+<line x1="135" y1="205" x2="209" y2="205" stroke="#999"/>
+<text x="145.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="145.0" y="178" fill="#333" font-size="10" font-weight="400" text-anchor="middle">4</text>
+<text x="163.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="163.0" y="190" fill="#333" font-size="10" font-weight="400" text-anchor="middle">2</text>
+<text x="181.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="181.0" y="166" fill="#333" font-size="10" font-weight="400" text-anchor="middle">6</text>
+<text x="199.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="199.0" y="154" fill="#333" font-size="10" font-weight="400" text-anchor="middle">8</text>
+<text x="172.0" y="233" fill="#222" font-size="13" font-weight="600" text-anchor="middle">乙</text>
+<rect x="234.0" y="169.0" width="14" height="36.0" fill="#2a9d8f" stroke="none"/>
+<rect x="252.0" y="187.0" width="14" height="18.0" fill="#2a9d8f" stroke="none"/>
+<rect x="270.0" y="151.0" width="14" height="54.0" fill="#2a9d8f" stroke="none"/>
+<rect x="288.0" y="133.0" width="14" height="72.0" fill="#2a9d8f" stroke="none"/>
+<line x1="231" y1="205" x2="305" y2="205" stroke="#999"/>
+<text x="241.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="241.0" y="166" fill="#333" font-size="10" font-weight="400" text-anchor="middle">6</text>
+<text x="259.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="259.0" y="184" fill="#333" font-size="10" font-weight="400" text-anchor="middle">3</text>
+<text x="277.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="277.0" y="148" fill="#333" font-size="10" font-weight="400" text-anchor="middle">9</text>
+<text x="295.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="295.0" y="130" fill="#333" font-size="10" font-weight="400" text-anchor="middle">12</text>
+<text x="268.0" y="233" fill="#222" font-size="13" font-weight="600" text-anchor="middle">丙</text>
+<text x="34" y="262" fill="#555" font-size="12" font-weight="400" text-anchor="start">歸納後剩下的基本花樣：</text>
+<rect x="42.0" y="313.0" width="14" height="12.0" fill="#2a9d8f" stroke="none"/>
+<rect x="60.0" y="319.0" width="14" height="6.0" fill="#2a9d8f" stroke="none"/>
+<rect x="78.0" y="307.0" width="14" height="18.0" fill="#2a9d8f" stroke="none"/>
+<rect x="96.0" y="301.0" width="14" height="24.0" fill="#2a9d8f" stroke="none"/>
+<line x1="39" y1="325" x2="113" y2="325" stroke="#999"/>
+<text x="49.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="49.0" y="310" fill="#333" font-size="10" font-weight="400" text-anchor="middle">2</text>
+<text x="67.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="67.0" y="316" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="85.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="85.0" y="304" fill="#333" font-size="10" font-weight="400" text-anchor="middle">3</text>
+<text x="103.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="103.0" y="298" fill="#333" font-size="10" font-weight="400" text-anchor="middle">4</text>
+<text x="76.0" y="353" fill="#2a9d8f" font-size="13" font-weight="600" text-anchor="middle">花樣 P</text>
+<text x="34" y="384" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">甲 = 1 份 P</text>
+<text x="34" y="403" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">乙 = 2 份 P</text>
+<text x="34" y="422" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">丙 = 3 份 P</text>
+<text x="34" y="452" fill="#222" font-size="13.5" font-weight="600" text-anchor="start">1 種花樣 → 秩 1</text>
+<text x="34" y="472" fill="#555" font-size="12" font-weight="400" text-anchor="start">每個客人只要存 1 個數（幾份）</text>
+<rect x="345" y="46" width="310" height="440" fill="#fbfbfb" stroke="#e2e2e2" rx="6"/>
+<text x="359" y="70" fill="#222" font-size="15" font-weight="600" text-anchor="start">② 秩 2</text>
+<text x="359" y="90" fill="#555" font-size="12" font-weight="400" text-anchor="start">三列形狀不同，但都是兩種花樣疊出來的</text>
+<text x="359" y="112" fill="#555" font-size="12" font-weight="400" text-anchor="start">表的三列：</text>
+<rect x="367.0" y="181.0" width="14" height="24.0" fill="#2a9d8f" stroke="none"/>
+<rect x="385.0" y="193.0" width="14" height="12.0" fill="#2a9d8f" stroke="none"/>
+<rect x="403.0" y="169.0" width="14" height="36.0" fill="#2a9d8f" stroke="none"/>
+<rect x="421.0" y="193.0" width="14" height="12.0" fill="#2a9d8f" stroke="none"/>
+<rect x="367.0" y="175.0" width="14" height="6.0" fill="#e9a23b" stroke="none"/>
+<rect x="385.0" y="181.0" width="14" height="12.0" fill="#e9a23b" stroke="none"/>
+<rect x="403.0" y="163.0" width="14" height="6.0" fill="#e9a23b" stroke="none"/>
+<rect x="421.0" y="187.0" width="14" height="6.0" fill="#e9a23b" stroke="none"/>
+<line x1="364" y1="205" x2="438" y2="205" stroke="#999"/>
+<text x="374.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="374.0" y="172" fill="#333" font-size="10" font-weight="400" text-anchor="middle">5</text>
+<text x="392.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="392.0" y="178" fill="#333" font-size="10" font-weight="400" text-anchor="middle">4</text>
+<text x="410.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="410.0" y="160" fill="#333" font-size="10" font-weight="400" text-anchor="middle">7</text>
+<text x="428.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="428.0" y="184" fill="#333" font-size="10" font-weight="400" text-anchor="middle">3</text>
+<text x="401.0" y="233" fill="#222" font-size="13" font-weight="600" text-anchor="middle">甲</text>
+<rect x="463.0" y="193.0" width="14" height="12.0" fill="#2a9d8f" stroke="none"/>
+<rect x="481.0" y="199.0" width="14" height="6.0" fill="#2a9d8f" stroke="none"/>
+<rect x="499.0" y="187.0" width="14" height="18.0" fill="#2a9d8f" stroke="none"/>
+<rect x="517.0" y="199.0" width="14" height="6.0" fill="#2a9d8f" stroke="none"/>
+<rect x="463.0" y="175.0" width="14" height="18.0" fill="#e9a23b" stroke="none"/>
+<rect x="481.0" y="163.0" width="14" height="36.0" fill="#e9a23b" stroke="none"/>
+<rect x="499.0" y="169.0" width="14" height="18.0" fill="#e9a23b" stroke="none"/>
+<rect x="517.0" y="181.0" width="14" height="18.0" fill="#e9a23b" stroke="none"/>
+<line x1="460" y1="205" x2="534" y2="205" stroke="#999"/>
+<text x="470.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="470.0" y="172" fill="#333" font-size="10" font-weight="400" text-anchor="middle">5</text>
+<text x="488.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="488.0" y="160" fill="#333" font-size="10" font-weight="400" text-anchor="middle">7</text>
+<text x="506.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="506.0" y="166" fill="#333" font-size="10" font-weight="400" text-anchor="middle">6</text>
+<text x="524.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="524.0" y="178" fill="#333" font-size="10" font-weight="400" text-anchor="middle">4</text>
+<text x="497.0" y="233" fill="#222" font-size="13" font-weight="600" text-anchor="middle">乙</text>
+<rect x="559.0" y="169.0" width="14" height="36.0" fill="#2a9d8f" stroke="none"/>
+<rect x="577.0" y="187.0" width="14" height="18.0" fill="#2a9d8f" stroke="none"/>
+<rect x="595.0" y="151.0" width="14" height="54.0" fill="#2a9d8f" stroke="none"/>
+<rect x="613.0" y="187.0" width="14" height="18.0" fill="#2a9d8f" stroke="none"/>
+<rect x="559.0" y="157.0" width="14" height="12.0" fill="#e9a23b" stroke="none"/>
+<rect x="577.0" y="163.0" width="14" height="24.0" fill="#e9a23b" stroke="none"/>
+<rect x="595.0" y="139.0" width="14" height="12.0" fill="#e9a23b" stroke="none"/>
+<rect x="613.0" y="175.0" width="14" height="12.0" fill="#e9a23b" stroke="none"/>
+<line x1="556" y1="205" x2="630" y2="205" stroke="#999"/>
+<text x="566.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="566.0" y="154" fill="#333" font-size="10" font-weight="400" text-anchor="middle">8</text>
+<text x="584.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="584.0" y="160" fill="#333" font-size="10" font-weight="400" text-anchor="middle">7</text>
+<text x="602.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="602.0" y="136" fill="#333" font-size="10" font-weight="400" text-anchor="middle">11</text>
+<text x="620.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="620.0" y="172" fill="#333" font-size="10" font-weight="400" text-anchor="middle">5</text>
+<text x="593.0" y="233" fill="#222" font-size="13" font-weight="600" text-anchor="middle">丙</text>
+<text x="359" y="262" fill="#555" font-size="12" font-weight="400" text-anchor="start">歸納後剩下的基本花樣：</text>
+<rect x="367.0" y="313.0" width="14" height="12.0" fill="#2a9d8f" stroke="none"/>
+<rect x="385.0" y="319.0" width="14" height="6.0" fill="#2a9d8f" stroke="none"/>
+<rect x="403.0" y="307.0" width="14" height="18.0" fill="#2a9d8f" stroke="none"/>
+<rect x="421.0" y="319.0" width="14" height="6.0" fill="#2a9d8f" stroke="none"/>
+<line x1="364" y1="325" x2="438" y2="325" stroke="#999"/>
+<text x="374.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="374.0" y="310" fill="#333" font-size="10" font-weight="400" text-anchor="middle">2</text>
+<text x="392.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="392.0" y="316" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="410.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="410.0" y="304" fill="#333" font-size="10" font-weight="400" text-anchor="middle">3</text>
+<text x="428.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="428.0" y="316" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="401.0" y="353" fill="#2a9d8f" font-size="13" font-weight="600" text-anchor="middle">花樣 P</text>
+<rect x="463.0" y="319.0" width="14" height="6.0" fill="#e9a23b" stroke="none"/>
+<rect x="481.0" y="313.0" width="14" height="12.0" fill="#e9a23b" stroke="none"/>
+<rect x="499.0" y="319.0" width="14" height="6.0" fill="#e9a23b" stroke="none"/>
+<rect x="517.0" y="319.0" width="14" height="6.0" fill="#e9a23b" stroke="none"/>
+<line x1="460" y1="325" x2="534" y2="325" stroke="#999"/>
+<text x="470.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="470.0" y="316" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="488.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="488.0" y="310" fill="#333" font-size="10" font-weight="400" text-anchor="middle">2</text>
+<text x="506.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="506.0" y="316" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="524.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="524.0" y="316" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="497.0" y="353" fill="#e9a23b" font-size="13" font-weight="600" text-anchor="middle">花樣 Q</text>
+<text x="359" y="384" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">甲 = 2 份 P + 1 份 Q</text>
+<text x="359" y="403" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">乙 = 1 份 P + 3 份 Q</text>
+<text x="359" y="422" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">丙 = 3 份 P + 2 份 Q</text>
+<text x="359" y="452" fill="#222" font-size="13.5" font-weight="600" text-anchor="start">2 種花樣 → 秩 2</text>
+<text x="359" y="472" fill="#555" font-size="12" font-weight="400" text-anchor="start">每個客人要存 2 個數（幾份 P、幾份 Q）</text>
+<rect x="670" y="46" width="310" height="440" fill="#fbfbfb" stroke="#e2e2e2" rx="6"/>
+<text x="684" y="70" fill="#222" font-size="15" font-weight="600" text-anchor="start">③ 秩 3（滿）</text>
+<text x="684" y="90" fill="#555" font-size="12" font-weight="400" text-anchor="start">三列各長各的，誰也湊不出誰</text>
+<text x="684" y="112" fill="#555" font-size="12" font-weight="400" text-anchor="start">表的三列：</text>
+<rect x="692.0" y="175.0" width="14" height="30.0" fill="#2a9d8f" stroke="none"/>
+<rect x="710.0" y="199.0" width="14" height="6.0" fill="#2a9d8f" stroke="none"/>
+<rect x="728.0" y="193.0" width="14" height="12.0" fill="#2a9d8f" stroke="none"/>
+<rect x="746.0" y="169.0" width="14" height="36.0" fill="#2a9d8f" stroke="none"/>
+<line x1="689" y1="205" x2="763" y2="205" stroke="#999"/>
+<text x="699.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="699.0" y="172" fill="#333" font-size="10" font-weight="400" text-anchor="middle">5</text>
+<text x="717.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="717.0" y="196" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="735.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="735.0" y="190" fill="#333" font-size="10" font-weight="400" text-anchor="middle">2</text>
+<text x="753.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="753.0" y="166" fill="#333" font-size="10" font-weight="400" text-anchor="middle">6</text>
+<text x="726.0" y="233" fill="#222" font-size="13" font-weight="600" text-anchor="middle">甲</text>
+<rect x="788.0" y="199.0" width="14" height="6.0" fill="#e9a23b" stroke="none"/>
+<rect x="806.0" y="169.0" width="14" height="36.0" fill="#e9a23b" stroke="none"/>
+<rect x="824.0" y="187.0" width="14" height="18.0" fill="#e9a23b" stroke="none"/>
+<rect x="842.0" y="193.0" width="14" height="12.0" fill="#e9a23b" stroke="none"/>
+<line x1="785" y1="205" x2="859" y2="205" stroke="#999"/>
+<text x="795.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="795.0" y="196" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="813.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="813.0" y="166" fill="#333" font-size="10" font-weight="400" text-anchor="middle">6</text>
+<text x="831.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="831.0" y="184" fill="#333" font-size="10" font-weight="400" text-anchor="middle">3</text>
+<text x="849.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="849.0" y="190" fill="#333" font-size="10" font-weight="400" text-anchor="middle">2</text>
+<text x="822.0" y="233" fill="#222" font-size="13" font-weight="600" text-anchor="middle">乙</text>
+<rect x="884.0" y="187.0" width="14" height="18.0" fill="#7b3fbf" stroke="none"/>
+<rect x="902.0" y="193.0" width="14" height="12.0" fill="#7b3fbf" stroke="none"/>
+<rect x="920.0" y="163.0" width="14" height="42.0" fill="#7b3fbf" stroke="none"/>
+<rect x="938.0" y="199.0" width="14" height="6.0" fill="#7b3fbf" stroke="none"/>
+<line x1="881" y1="205" x2="955" y2="205" stroke="#999"/>
+<text x="891.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="891.0" y="184" fill="#333" font-size="10" font-weight="400" text-anchor="middle">3</text>
+<text x="909.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="909.0" y="190" fill="#333" font-size="10" font-weight="400" text-anchor="middle">2</text>
+<text x="927.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="927.0" y="160" fill="#333" font-size="10" font-weight="400" text-anchor="middle">7</text>
+<text x="945.0" y="217" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="945.0" y="196" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="918.0" y="233" fill="#222" font-size="13" font-weight="600" text-anchor="middle">丙</text>
+<text x="684" y="262" fill="#555" font-size="12" font-weight="400" text-anchor="start">歸納後剩下的基本花樣：</text>
+<rect x="692.0" y="295.0" width="14" height="30.0" fill="#2a9d8f" stroke="none"/>
+<rect x="710.0" y="319.0" width="14" height="6.0" fill="#2a9d8f" stroke="none"/>
+<rect x="728.0" y="313.0" width="14" height="12.0" fill="#2a9d8f" stroke="none"/>
+<rect x="746.0" y="289.0" width="14" height="36.0" fill="#2a9d8f" stroke="none"/>
+<line x1="689" y1="325" x2="763" y2="325" stroke="#999"/>
+<text x="699.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="699.0" y="292" fill="#333" font-size="10" font-weight="400" text-anchor="middle">5</text>
+<text x="717.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="717.0" y="316" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="735.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="735.0" y="310" fill="#333" font-size="10" font-weight="400" text-anchor="middle">2</text>
+<text x="753.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="753.0" y="286" fill="#333" font-size="10" font-weight="400" text-anchor="middle">6</text>
+<text x="726.0" y="353" fill="#2a9d8f" font-size="13" font-weight="600" text-anchor="middle">花樣 1</text>
+<rect x="788.0" y="319.0" width="14" height="6.0" fill="#e9a23b" stroke="none"/>
+<rect x="806.0" y="289.0" width="14" height="36.0" fill="#e9a23b" stroke="none"/>
+<rect x="824.0" y="307.0" width="14" height="18.0" fill="#e9a23b" stroke="none"/>
+<rect x="842.0" y="313.0" width="14" height="12.0" fill="#e9a23b" stroke="none"/>
+<line x1="785" y1="325" x2="859" y2="325" stroke="#999"/>
+<text x="795.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="795.0" y="316" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="813.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="813.0" y="286" fill="#333" font-size="10" font-weight="400" text-anchor="middle">6</text>
+<text x="831.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="831.0" y="304" fill="#333" font-size="10" font-weight="400" text-anchor="middle">3</text>
+<text x="849.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="849.0" y="310" fill="#333" font-size="10" font-weight="400" text-anchor="middle">2</text>
+<text x="822.0" y="353" fill="#e9a23b" font-size="13" font-weight="600" text-anchor="middle">花樣 2</text>
+<rect x="884.0" y="307.0" width="14" height="18.0" fill="#7b3fbf" stroke="none"/>
+<rect x="902.0" y="313.0" width="14" height="12.0" fill="#7b3fbf" stroke="none"/>
+<rect x="920.0" y="283.0" width="14" height="42.0" fill="#7b3fbf" stroke="none"/>
+<rect x="938.0" y="319.0" width="14" height="6.0" fill="#7b3fbf" stroke="none"/>
+<line x1="881" y1="325" x2="955" y2="325" stroke="#999"/>
+<text x="891.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">A</text>
+<text x="891.0" y="304" fill="#333" font-size="10" font-weight="400" text-anchor="middle">3</text>
+<text x="909.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">B</text>
+<text x="909.0" y="310" fill="#333" font-size="10" font-weight="400" text-anchor="middle">2</text>
+<text x="927.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">C</text>
+<text x="927.0" y="280" fill="#333" font-size="10" font-weight="400" text-anchor="middle">7</text>
+<text x="945.0" y="337" fill="#888" font-size="10" font-weight="400" text-anchor="middle">D</text>
+<text x="945.0" y="316" fill="#333" font-size="10" font-weight="400" text-anchor="middle">1</text>
+<text x="918.0" y="353" fill="#7b3fbf" font-size="13" font-weight="600" text-anchor="middle">花樣 3</text>
+<text x="684" y="384" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">甲 = 1 份 花樣 1</text>
+<text x="684" y="403" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">乙 = 1 份 花樣 2</text>
+<text x="684" y="422" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">丙 = 1 份 花樣 3</text>
+<text x="684" y="452" fill="#222" font-size="13.5" font-weight="600" text-anchor="start">3 種花樣 → 秩 3</text>
+<text x="684" y="472" fill="#555" font-size="12" font-weight="400" text-anchor="start">沒有東西可以歸納掉，壓不動</text>
+<text x="20" y="516" fill="#222" font-size="14" font-weight="600" text-anchor="start">秩 ＝ 基本花樣的個數 ＝ 每個客人要存幾個數 ＝ 向量的維度 d。三個是同一個數。</text>
+<text x="20" y="540" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">② 的「幾份 P、幾份 Q」就是客人向量：甲 = (2, 1)、乙 = (1, 3)、丙 = (3, 2)。花樣 P、Q 在某一欄的高度就是那件商品的向量：A = (2, 1)、B = (1, 2)、C = (3, 1)、D = (1, 1)。</text>
+<text x="20" y="562" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">例：丙的 C 欄 = 3 份 × P 在 C 的高度 3 ＋ 2 份 × Q 在 C 的高度 1 = 9 + 2 = 11 = (3, 2)·(3, 1)。疊長條 = 內積。</text>
+<text x="20" y="584" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">低秩 = 列數很多、花樣卻很少（一百萬個客人、只有 64 種花樣）。這才壓得動，也才猜得到空格。</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplMTkxNGJhMy1iOTY1LTQxOWYtODk0ZC05ZWViYWYwMDQzNDMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaGwHaJLNsrvy6lwlZeLNO5QAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1ZDczNGM2OS0xY2YxLTRhN2ItYTQ5OS0zYjJiNWQzYmZhMDFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNokYN95bbX3VgNBs9FV/pP2AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggSBwUL+JSGGfYI3CoFTvYIx1sp3OHV9QHAYGA//X0tBqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAKLfRjnhEfBUCSOOpKD5pEAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIOoLnmKTwSSK7MndTu2HvARBaUD82xtsLbYHa7nL/XbmZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GWJTZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmUxOTE0YmEzLWI5NjUtNDE5Zi04OTRkLTllZWJhZjAwNDM0My9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjc2NGM2MmM2LTZkMTctNDZjYy05NDIyLTFmYTEzOWVhM2U3OXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBIHBQv4lIYZ9gjcKgVO9gjHWync4dX1AcBgYD/9fS0GqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggluBH465ziYoTRhq/yl140u1iP+MXmYeOrxyN1VYavJaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggSr2SYkMVg1JA1mHhmunSoG7XWvYOuu01n1uIRlZxe7V0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOQdW8qiHvjEY2nRe/ekowGqxz6T4YfkwOzOUp09N36Be/TnqeFNhdzCIItu2N1z/Qhm6xmfnIaHAF99HEnn3ds=</c2pa:manifest></metadata></svg>

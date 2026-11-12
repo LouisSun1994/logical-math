@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1010" height="640" viewBox="0 0 1010 640" font-family="-apple-system, 'PingFang TC', 'Noto Sans TC', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<rect width="1010" height="640" fill="#fff"/>
+<text x="24" y="30" fill="#222" font-size="16" font-weight="600" text-anchor="start">同一個結構，兩個角色：大矩陣 ＝ 瘦 × 瘦，中間的寬度 ＝ 秩</text>
+<rect x="14" y="48" width="982" height="258" fill="#fbfbfb" stroke="#e2e2e2" rx="6"/>
+<text x="28" y="72" fill="#1f5fbf" font-size="15" font-weight="600" text-anchor="start">推薦系統：用低秩去「近似資料」</text>
+<rect x="240" y="92" width="150" height="150" fill="#fff" stroke="#999" stroke-width="1.5" rx="2"/>
+<line x1="255" y1="92" x2="255" y2="242" stroke="#eee"/>
+<line x1="240" y1="107" x2="390" y2="107" stroke="#eee"/>
+<line x1="270" y1="92" x2="270" y2="242" stroke="#eee"/>
+<line x1="240" y1="122" x2="390" y2="122" stroke="#eee"/>
+<line x1="285" y1="92" x2="285" y2="242" stroke="#eee"/>
+<line x1="240" y1="137" x2="390" y2="137" stroke="#eee"/>
+<line x1="300" y1="92" x2="300" y2="242" stroke="#eee"/>
+<line x1="240" y1="152" x2="390" y2="152" stroke="#eee"/>
+<line x1="315" y1="92" x2="315" y2="242" stroke="#eee"/>
+<line x1="240" y1="167" x2="390" y2="167" stroke="#eee"/>
+<line x1="330" y1="92" x2="330" y2="242" stroke="#eee"/>
+<line x1="240" y1="182" x2="390" y2="182" stroke="#eee"/>
+<line x1="345" y1="92" x2="345" y2="242" stroke="#eee"/>
+<line x1="240" y1="197" x2="390" y2="197" stroke="#eee"/>
+<line x1="360" y1="92" x2="360" y2="242" stroke="#eee"/>
+<line x1="240" y1="212" x2="390" y2="212" stroke="#eee"/>
+<line x1="375" y1="92" x2="375" y2="242" stroke="#eee"/>
+<line x1="240" y1="227" x2="390" y2="227" stroke="#eee"/>
+<rect x="256" y="93" width="13" height="13" fill="#8aa6d6"/>
+<rect x="241" y="228" width="13" height="13" fill="#8aa6d6"/>
+<rect x="316" y="108" width="13" height="13" fill="#8aa6d6"/>
+<rect x="361" y="108" width="13" height="13" fill="#8aa6d6"/>
+<rect x="286" y="213" width="13" height="13" fill="#8aa6d6"/>
+<rect x="241" y="183" width="13" height="13" fill="#8aa6d6"/>
+<rect x="331" y="183" width="13" height="13" fill="#8aa6d6"/>
+<rect x="286" y="108" width="13" height="13" fill="#8aa6d6"/>
+<rect x="271" y="168" width="13" height="13" fill="#8aa6d6"/>
+<text x="315.0" y="84" fill="#555" font-size="12" font-weight="400" text-anchor="middle">欄：商品（10 萬）</text>
+<text x="230" y="161.0" fill="#555" font-size="12" font-weight="400" text-anchor="end">列：客人</text>
+<text x="230" y="179.0" fill="#555" font-size="12" font-weight="400" text-anchor="end">（100 萬）</text>
+<text x="315.0" y="260" fill="#222" font-size="12.5" font-weight="600" text-anchor="middle">互動表 R：99% 是空格</text>
+<text x="412" y="175.0" fill="#1f5fbf" font-size="26" font-weight="600" text-anchor="middle">≈</text>
+<rect x="435" y="92" width="30" height="150" fill="#dbe7fb" stroke="#1f5fbf" stroke-width="1.5" rx="2"/>
+<text x="450.0" y="260" fill="#1f5fbf" font-size="13" font-weight="600" text-anchor="middle">U</text>
+<text x="450.0" y="276" fill="#1f5fbf" font-size="11" font-weight="400" text-anchor="middle">客人向量</text>
+<text x="482.5" y="113.0" fill="#222" font-size="18" font-weight="400" text-anchor="middle">×</text>
+<rect x="500" y="92" width="150" height="30" fill="#fbe1e5" stroke="#d1495b" stroke-width="1.5" rx="2"/>
+<text x="575.0" y="140" fill="#d1495b" font-size="12.5" font-weight="600" text-anchor="middle">Vᵀ　商品向量</text>
+<line x1="435" y1="82" x2="465" y2="82" stroke="#333"/>
+<text x="450.0" y="76" fill="#222" font-size="13" font-weight="600" text-anchor="middle">d</text>
+<line x1="658" y1="92" x2="658" y2="122" stroke="#333"/>
+<text x="663" y="112.0" fill="#222" font-size="13" font-weight="600" text-anchor="start">d</text>
+<text x="500" y="184" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">d = 64：口味種數</text>
+<text x="500" y="204" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">存的只有 U 和 V</text>
+<text x="684" y="100" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">大矩陣</text>
+<text x="762" y="100" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">R ＝ 資料（誰買了什麼）</text>
+<text x="684" y="122" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">列 × 欄</text>
+<text x="762" y="122" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">客人 × 商品</text>
+<text x="684" y="144" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">瘦矩陣</text>
+<text x="762" y="144" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">客人向量表 U、商品向量表 V</text>
+<text x="684" y="166" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">中間寬度</text>
+<text x="762" y="166" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">d ＝ 口味種數</text>
+<text x="684" y="188" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">低秩是</text>
+<text x="762" y="188" fill="#222" font-size="12.5" font-weight="600" text-anchor="start">假設：R ≈ U Vᵀ，有殘差</text>
+<text x="684" y="210" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">賭注</text>
+<text x="762" y="210" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">行為背後只有 d 種口味</text>
+<text x="684" y="232" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">用途</text>
+<text x="762" y="232" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">空格也算得出值 → 推薦</text>
+<rect x="14" y="320" width="982" height="272" fill="#fbfbfb" stroke="#e2e2e2" rx="6"/>
+<text x="28" y="344" fill="#2a9d8f" font-size="15" font-weight="600" text-anchor="start">LoRA：用低秩去「限制參數的改變量」</text>
+<rect x="40" y="382" width="150" height="150" fill="#ececec" stroke="#999" stroke-width="1.5" rx="2"/>
+<text x="115.0" y="453.0" fill="#777" font-size="20" font-weight="600" text-anchor="middle">W</text>
+<text x="115.0" y="475.0" fill="#777" font-size="12" font-weight="400" text-anchor="middle">凍住，不訓練</text>
+<text x="115.0" y="550" fill="#555" font-size="12.5" font-weight="400" text-anchor="middle">原本的權重 4096 × 4096</text>
+<text x="215.0" y="465.0" fill="#222" font-size="24" font-weight="600" text-anchor="middle">+</text>
+<rect x="240" y="382" width="150" height="150" fill="#e3f4f1" stroke="#2a9d8f" stroke-width="1.5" rx="2"/>
+<line x1="240" y1="397" x2="390" y2="397" stroke="#bfe3dd"/>
+<line x1="240" y1="412" x2="390" y2="412" stroke="#bfe3dd"/>
+<line x1="240" y1="427" x2="390" y2="427" stroke="#bfe3dd"/>
+<line x1="240" y1="442" x2="390" y2="442" stroke="#bfe3dd"/>
+<line x1="240" y1="457" x2="390" y2="457" stroke="#bfe3dd"/>
+<line x1="240" y1="472" x2="390" y2="472" stroke="#bfe3dd"/>
+<line x1="240" y1="487" x2="390" y2="487" stroke="#bfe3dd"/>
+<line x1="240" y1="502" x2="390" y2="502" stroke="#bfe3dd"/>
+<line x1="240" y1="517" x2="390" y2="517" stroke="#bfe3dd"/>
+<text x="315.0" y="453.0" fill="#2a9d8f" font-size="20" font-weight="600" text-anchor="middle">ΔW</text>
+<text x="315.0" y="475.0" fill="#2a9d8f" font-size="11.5" font-weight="400" text-anchor="middle">每列都由 r 種花樣疊成</text>
+<text x="315.0" y="374" fill="#555" font-size="12" font-weight="400" text-anchor="middle">欄：輸入方向（4096）</text>
+<text x="315.0" y="550" fill="#222" font-size="12.5" font-weight="600" text-anchor="middle">改變量：和 W 一樣大</text>
+<text x="315.0" y="567" fill="#555" font-size="12" font-weight="400" text-anchor="middle">列：輸出方向（4096）</text>
+<text x="412" y="465.0" fill="#2a9d8f" font-size="24" font-weight="600" text-anchor="middle">＝</text>
+<rect x="435" y="382" width="30" height="150" fill="#dbe7fb" stroke="#1f5fbf" stroke-width="1.5" rx="2"/>
+<text x="450.0" y="550" fill="#1f5fbf" font-size="13" font-weight="600" text-anchor="middle">B</text>
+<text x="450.0" y="566" fill="#1f5fbf" font-size="11" font-weight="400" text-anchor="middle">r 種花樣</text>
+<text x="482.5" y="403.0" fill="#222" font-size="18" font-weight="400" text-anchor="middle">×</text>
+<rect x="500" y="382" width="150" height="30" fill="#fbe1e5" stroke="#d1495b" stroke-width="1.5" rx="2"/>
+<text x="575.0" y="430" fill="#d1495b" font-size="12.5" font-weight="600" text-anchor="middle">A　r 把尺</text>
+<line x1="435" y1="372" x2="465" y2="372" stroke="#333"/>
+<text x="450.0" y="366" fill="#222" font-size="13" font-weight="600" text-anchor="middle">r</text>
+<line x1="658" y1="382" x2="658" y2="412" stroke="#333"/>
+<text x="663" y="402.0" fill="#222" font-size="13" font-weight="600" text-anchor="start">r</text>
+<text x="500" y="474" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">r = 8：你寫死的秩</text>
+<text x="500" y="494" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">訓練的只有 B 和 A</text>
+<text x="684" y="390" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">大矩陣</text>
+<text x="762" y="390" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">ΔW ＝ 參數的改變量</text>
+<text x="684" y="412" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">列 × 欄</text>
+<text x="762" y="412" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">輸出方向 × 輸入方向</text>
+<text x="684" y="434" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">瘦矩陣</text>
+<text x="762" y="434" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">B（寫 r 種花樣）、A（讀 r 個方向）</text>
+<text x="684" y="456" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">中間寬度</text>
+<text x="762" y="456" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">r ＝ 你寫死的秩</text>
+<text x="684" y="478" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">低秩是</text>
+<text x="762" y="478" fill="#222" font-size="12.5" font-weight="600" text-anchor="start">規定：ΔW ＝ B A，精確</text>
+<text x="684" y="500" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">賭注</text>
+<text x="762" y="500" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">任務需要的改變只有 r 個方向</text>
+<text x="684" y="522" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">用途</text>
+<text x="762" y="522" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">只訓練約 0.4% 的參數</text>
+<text x="24" y="618" fill="#222" font-size="13" font-weight="600" text-anchor="start">上下對齊著看：R ↔ ΔW（被低秩描述的大矩陣）、U ↔ B、Vᵀ ↔ A、d ↔ r。差別只有兩個：大矩陣是資料還是參數；等號是 ≈ 還是 ＝。</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1YmQ0YzYwMS05ZWFkLTQxMTgtYWY0Yi0xNDhhZjRhNDAxM2UAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHcYIVqt4n6NibXy9AJYuGEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0YTQyODE2NS1mOGI3LTQwZmQtODg2OC05OWRiODJiYWE5ZWNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoxEfTN9tOuYp0aJcGn3Uf5wAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggzLUe6hO3iOvSrlWzzrCuqafdVvSp+3tvLkFoog+EKOCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOi/bnIqd58/A8DSq55Z51sAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIG8IfHUYOsxK7WnCUHMisQXXV46tOd6rj7AAVg++mjqjZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSsXZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjViZDRjNjAxLTllYWQtNDExOC1hZjRiLTE0OGFmNGE0MDEzZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjY5MjlkZGNlLTlkYzgtNGNhOC05YTYyLWEzZDkwNjQzNzJhM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDMtR7qE7eI69KuVbPOsK6pp91W9Kn7e28uQWiiD4Qo4KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggZ0kfLQre8EN7B0ZAzsr9WJfZvSQOBOtUugrKa10EYv2iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggrpAlkrQpcJz/b/CvZLBMYXWPlRhw3oZFXnuQvDq95CB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQPbj0d1TXjVK9wbSBb2EX2nJhzVO2noegqREx1LVHdlNpS8ED2FCFktlVHveY0skRK9/HXMeBvegVt+3iCL/2bA=</c2pa:manifest></metadata></svg>

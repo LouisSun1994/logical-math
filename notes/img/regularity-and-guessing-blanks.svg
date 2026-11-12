@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1010" height="690" viewBox="0 0 1010 690" font-family="-apple-system, 'PingFang TC', 'Noto Sans TC', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<rect width="1010" height="690" fill="#fff"/>
+<rect x="14" y="14" width="560" height="290" fill="#fbfbfb" stroke="#e2e2e2" stroke-width="1" rx="6"/>
+<text x="28" y="40" fill="#222" font-size="15" font-weight="600" text-anchor="start">① 有規律 ＝ 蓋住一格，猜得回來</text>
+<text x="28" y="60" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">兩張表一樣大。黑格是蓋住的那一格。</text>
+<text x="172" y="90" fill="#222" font-size="13" font-weight="600" text-anchor="middle">表甲（有規律）</text>
+<rect x="84" y="100" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="106.0" y="120" fill="#222" font-size="13" font-weight="600" text-anchor="middle">A</text>
+<rect x="128" y="100" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="150.0" y="120" fill="#222" font-size="13" font-weight="600" text-anchor="middle">B</text>
+<rect x="172" y="100" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="194.0" y="120" fill="#222" font-size="13" font-weight="600" text-anchor="middle">C</text>
+<rect x="216" y="100" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="238.0" y="120" fill="#222" font-size="13" font-weight="600" text-anchor="middle">D</text>
+<rect x="40" y="130" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="62" y="150" fill="#222" font-size="13" font-weight="600" text-anchor="middle">甲</text>
+<rect x="84" y="130" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="106.0" y="150" fill="#222" font-size="13" font-weight="400" text-anchor="middle">2</text>
+<rect x="128" y="130" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="150.0" y="150" fill="#222" font-size="13" font-weight="400" text-anchor="middle">1</text>
+<rect x="172" y="130" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="194.0" y="150" fill="#222" font-size="13" font-weight="400" text-anchor="middle">3</text>
+<rect x="216" y="130" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="238.0" y="150" fill="#222" font-size="13" font-weight="400" text-anchor="middle">4</text>
+<rect x="40" y="160" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="62" y="180" fill="#222" font-size="13" font-weight="600" text-anchor="middle">乙</text>
+<rect x="84" y="160" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="106.0" y="180" fill="#222" font-size="13" font-weight="400" text-anchor="middle">4</text>
+<rect x="128" y="160" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="150.0" y="180" fill="#222" font-size="13" font-weight="400" text-anchor="middle">2</text>
+<rect x="172" y="160" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="194.0" y="180" fill="#222" font-size="13" font-weight="400" text-anchor="middle">6</text>
+<rect x="216" y="160" width="44" height="30" fill="#333" stroke="#333" stroke-width="1" rx="0"/>
+<text x="238.0" y="180" fill="#7fe0a3" font-size="13" font-weight="600" text-anchor="middle">8</text>
+<rect x="40" y="190" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="62" y="210" fill="#222" font-size="13" font-weight="600" text-anchor="middle">丙</text>
+<rect x="84" y="190" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="106.0" y="210" fill="#222" font-size="13" font-weight="400" text-anchor="middle">6</text>
+<rect x="128" y="190" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="150.0" y="210" fill="#222" font-size="13" font-weight="400" text-anchor="middle">3</text>
+<rect x="172" y="190" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="194.0" y="210" fill="#222" font-size="13" font-weight="400" text-anchor="middle">9</text>
+<rect x="216" y="190" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="238.0" y="210" fill="#222" font-size="13" font-weight="400" text-anchor="middle">12</text>
+<text x="40" y="240" fill="#2a9d5c" font-size="12.5" font-weight="600" text-anchor="start">乙每格 ＝ 甲的 2 倍 → 猜回 8 ✓</text>
+<text x="442" y="90" fill="#222" font-size="13" font-weight="600" text-anchor="middle">表乙（每格擲硬幣）</text>
+<rect x="354" y="100" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="376.0" y="120" fill="#222" font-size="13" font-weight="600" text-anchor="middle">A</text>
+<rect x="398" y="100" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="420.0" y="120" fill="#222" font-size="13" font-weight="600" text-anchor="middle">B</text>
+<rect x="442" y="100" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="464.0" y="120" fill="#222" font-size="13" font-weight="600" text-anchor="middle">C</text>
+<rect x="486" y="100" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="508.0" y="120" fill="#222" font-size="13" font-weight="600" text-anchor="middle">D</text>
+<rect x="310" y="130" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="332" y="150" fill="#222" font-size="13" font-weight="600" text-anchor="middle">甲</text>
+<rect x="354" y="130" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="376.0" y="150" fill="#222" font-size="13" font-weight="400" text-anchor="middle">1</text>
+<rect x="398" y="130" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="420.0" y="150" fill="#222" font-size="13" font-weight="400" text-anchor="middle">0</text>
+<rect x="442" y="130" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="464.0" y="150" fill="#222" font-size="13" font-weight="400" text-anchor="middle">1</text>
+<rect x="486" y="130" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="508.0" y="150" fill="#222" font-size="13" font-weight="400" text-anchor="middle">1</text>
+<rect x="310" y="160" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="332" y="180" fill="#222" font-size="13" font-weight="600" text-anchor="middle">乙</text>
+<rect x="354" y="160" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="376.0" y="180" fill="#222" font-size="13" font-weight="400" text-anchor="middle">0</text>
+<rect x="398" y="160" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="420.0" y="180" fill="#222" font-size="13" font-weight="400" text-anchor="middle">0</text>
+<rect x="442" y="160" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="464.0" y="180" fill="#222" font-size="13" font-weight="400" text-anchor="middle">1</text>
+<rect x="486" y="160" width="44" height="30" fill="#333" stroke="#333" stroke-width="1" rx="0"/>
+<text x="508.0" y="180" fill="#ff9aa5" font-size="13" font-weight="600" text-anchor="middle">?</text>
+<rect x="310" y="190" width="44" height="30" fill="#fafafa" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="332" y="210" fill="#222" font-size="13" font-weight="600" text-anchor="middle">丙</text>
+<rect x="354" y="190" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="376.0" y="210" fill="#222" font-size="13" font-weight="400" text-anchor="middle">1</text>
+<rect x="398" y="190" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="420.0" y="210" fill="#222" font-size="13" font-weight="400" text-anchor="middle">1</text>
+<rect x="442" y="190" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="464.0" y="210" fill="#222" font-size="13" font-weight="400" text-anchor="middle">0</text>
+<rect x="486" y="190" width="44" height="30" fill="#fff" stroke="#bbb" stroke-width="1" rx="0"/>
+<text x="508.0" y="210" fill="#222" font-size="13" font-weight="400" text-anchor="middle">0</text>
+<text x="310" y="240" fill="#d1495b" font-size="12.5" font-weight="600" text-anchor="start">其他 11 格沒有任何線索 ✗</text>
+<text x="40" y="268" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">差別不在大小，在格子之間有沒有互相透露資訊。</text>
+<text x="40" y="288" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">猜得回來 ＝ 壓得動 ＝ 可以做低秩。</text>
+<rect x="588" y="14" width="408" height="290" fill="#fbfbfb" stroke="#e2e2e2" stroke-width="1" rx="6"/>
+<text x="602" y="40" fill="#222" font-size="15" font-weight="600" text-anchor="start">② 大小和規律是兩條獨立的軸</text>
+<text x="754.0" y="78" fill="#2a9d5c" font-size="13" font-weight="600" text-anchor="middle">有規律</text>
+<text x="902.0" y="78" fill="#d1495b" font-size="13" font-weight="600" text-anchor="middle">沒規律</text>
+<text x="670" y="130.0" fill="#222" font-size="13" font-weight="600" text-anchor="end">小</text>
+<text x="670" y="208.0" fill="#222" font-size="13" font-weight="600" text-anchor="end">大</text>
+<rect x="680" y="86" width="148" height="78" fill="#e6f5ec" stroke="#ccc" stroke-width="1" rx="0"/>
+<text x="754.0" y="118" fill="#222" font-size="12.5" font-weight="400" text-anchor="middle">表甲</text>
+<text x="754.0" y="140" fill="#2a9d5c" font-size="13" font-weight="600" text-anchor="middle">猜得回 ✓</text>
+<rect x="828" y="86" width="148" height="78" fill="#fdecee" stroke="#ccc" stroke-width="1" rx="0"/>
+<text x="902.0" y="118" fill="#222" font-size="12.5" font-weight="400" text-anchor="middle">表乙</text>
+<text x="902.0" y="140" fill="#d1495b" font-size="13" font-weight="600" text-anchor="middle">猜不回 ✗</text>
+<rect x="680" y="164" width="148" height="78" fill="#e6f5ec" stroke="#ccc" stroke-width="1" rx="0"/>
+<text x="754.0" y="196" fill="#222" font-size="12.5" font-weight="400" text-anchor="middle">真實購買紀錄</text>
+<text x="754.0" y="218" fill="#2a9d5c" font-size="13" font-weight="600" text-anchor="middle">猜得回 ✓</text>
+<rect x="828" y="164" width="148" height="78" fill="#fdecee" stroke="#ccc" stroke-width="1" rx="0"/>
+<text x="902.0" y="196" fill="#222" font-size="12.5" font-weight="400" text-anchor="middle">一千億格擲硬幣</text>
+<text x="902.0" y="218" fill="#d1495b" font-size="13" font-weight="600" text-anchor="middle">猜不回 ✗</text>
+<text x="602" y="268" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">結果只跟「欄」（有沒有規律）走，不跟「列」（大小）走。</text>
+<text x="602" y="288" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">大的作用：是想做的動機，也讓規律學得更準；但不製造規律。</text>
+<rect x="14" y="318" width="982" height="358" fill="#fbfbfb" stroke="#e2e2e2" stroke-width="1" rx="6"/>
+<text x="28" y="344" fill="#222" font-size="15" font-weight="600" text-anchor="start">③ 猜空格 → 排序 → 推：一個客人的那一列</text>
+<text x="40" y="364" fill="#555" font-size="12" font-weight="400" text-anchor="start">觀察到的：</text>
+<rect x="40" y="372" width="84" height="36" fill="#dbe7fb" stroke="#1f5fbf" stroke-width="1" rx="0"/>
+<text x="82.0" y="387" fill="#222" font-size="12" font-weight="600" text-anchor="middle">A</text>
+<text x="82.0" y="402" fill="#1f5fbf" font-size="11" font-weight="400" text-anchor="middle">買了 = 1</text>
+<rect x="132" y="372" width="84" height="36" fill="#dbe7fb" stroke="#1f5fbf" stroke-width="1" rx="0"/>
+<text x="174.0" y="387" fill="#222" font-size="12" font-weight="600" text-anchor="middle">B</text>
+<text x="174.0" y="402" fill="#1f5fbf" font-size="11" font-weight="400" text-anchor="middle">買了 = 1</text>
+<rect x="224" y="372" width="84" height="36" fill="#fff" stroke="#aaa" stroke-width="1" rx="0" stroke-dasharray="4 3"/>
+<text x="266.0" y="387" fill="#222" font-size="12" font-weight="600" text-anchor="middle">C</text>
+<text x="266.0" y="402" fill="#555" font-size="11" font-weight="400" text-anchor="middle">空（不知道）</text>
+<rect x="316" y="372" width="84" height="36" fill="#fff" stroke="#aaa" stroke-width="1" rx="0" stroke-dasharray="4 3"/>
+<text x="358.0" y="387" fill="#222" font-size="12" font-weight="600" text-anchor="middle">D</text>
+<text x="358.0" y="402" fill="#555" font-size="11" font-weight="400" text-anchor="middle">空（不知道）</text>
+<rect x="408" y="372" width="84" height="36" fill="#fff" stroke="#aaa" stroke-width="1" rx="0" stroke-dasharray="4 3"/>
+<text x="450.0" y="387" fill="#222" font-size="12" font-weight="600" text-anchor="middle">E</text>
+<text x="450.0" y="402" fill="#555" font-size="11" font-weight="400" text-anchor="middle">空（不知道）</text>
+<rect x="500" y="372" width="84" height="36" fill="#fff" stroke="#aaa" stroke-width="1" rx="0" stroke-dasharray="4 3"/>
+<text x="542.0" y="387" fill="#222" font-size="12" font-weight="600" text-anchor="middle">F</text>
+<text x="542.0" y="402" fill="#555" font-size="11" font-weight="400" text-anchor="middle">空（不知道）</text>
+<rect x="592" y="372" width="84" height="36" fill="#fff" stroke="#aaa" stroke-width="1" rx="0" stroke-dasharray="4 3"/>
+<text x="634.0" y="387" fill="#222" font-size="12" font-weight="600" text-anchor="middle">G 新品</text>
+<text x="634.0" y="402" fill="#555" font-size="11" font-weight="400" text-anchor="middle">空（不知道）</text>
+<line x1="40" y1="500" x2="676" y2="500" stroke="#999"/>
+<text x="40" y="426" fill="#555" font-size="12" font-weight="400" text-anchor="start">內積給的分數：</text>
+<text x="82.0" y="492" fill="#1f5fbf" font-size="12" font-weight="400" text-anchor="middle">已買</text>
+<text x="82.0" y="522" fill="#1f5fbf" font-size="12" font-weight="400" text-anchor="middle">不用推</text>
+<text x="174.0" y="492" fill="#1f5fbf" font-size="12" font-weight="400" text-anchor="middle">已買</text>
+<text x="174.0" y="522" fill="#1f5fbf" font-size="12" font-weight="400" text-anchor="middle">不用推</text>
+<rect x="252.0" y="434.4" width="28" height="65.6" fill="#2a9d5c" stroke="none" stroke-width="1" rx="0"/>
+<text x="266.0" y="429.4" fill="#222" font-size="12" font-weight="600" text-anchor="middle">8.2</text>
+<text x="266.0" y="522" fill="#555" font-size="12" font-weight="400" text-anchor="middle">第 1 名</text>
+<rect x="240.0" y="530" width="52" height="22" fill="#fff" stroke="#2a9d5c" stroke-width="1.5" rx="11"/>
+<text x="266.0" y="546" fill="#2a9d5c" font-size="12.5" font-weight="600" text-anchor="middle">推</text>
+<rect x="344.0" y="491.2" width="28" height="8.8" fill="#aaa" stroke="none" stroke-width="1" rx="0"/>
+<text x="358.0" y="486.2" fill="#222" font-size="12" font-weight="600" text-anchor="middle">1.1</text>
+<text x="358.0" y="522" fill="#555" font-size="12" font-weight="400" text-anchor="middle">第 3 名</text>
+<rect x="332.0" y="530" width="52" height="22" fill="#fff" stroke="#555" stroke-width="1.5" rx="11"/>
+<text x="358.0" y="546" fill="#555" font-size="12.5" font-weight="600" text-anchor="middle">不推</text>
+<rect x="436.0" y="448.0" width="28" height="52.0" fill="#2a9d5c" stroke="none" stroke-width="1" rx="0"/>
+<text x="450.0" y="443.0" fill="#222" font-size="12" font-weight="600" text-anchor="middle">6.5</text>
+<text x="450.0" y="522" fill="#555" font-size="12" font-weight="400" text-anchor="middle">第 2 名</text>
+<rect x="424.0" y="530" width="52" height="22" fill="#fff" stroke="#2a9d5c" stroke-width="1.5" rx="11"/>
+<text x="450.0" y="546" fill="#2a9d5c" font-size="12.5" font-weight="600" text-anchor="middle">推</text>
+<rect x="528.0" y="500" width="28" height="16.0" fill="#d1495b" stroke="none" stroke-width="1" rx="0"/>
+<text x="542.0" y="495" fill="#222" font-size="12" font-weight="600" text-anchor="middle">-2.0</text>
+<text x="542.0" y="534" fill="#555" font-size="12" font-weight="400" text-anchor="middle">第 5 名</text>
+<rect x="516.0" y="542" width="52" height="22" fill="#fff" stroke="#d1495b" stroke-width="1.5" rx="11"/>
+<text x="542.0" y="558" fill="#d1495b" font-size="12.5" font-weight="600" text-anchor="middle">不推</text>
+<rect x="620.0" y="499.2" width="28" height="1.5" fill="#e08a1e" stroke="none" stroke-width="1" rx="0"/>
+<text x="634.0" y="494.2" fill="#222" font-size="12" font-weight="600" text-anchor="middle">0.1</text>
+<text x="634.0" y="522" fill="#555" font-size="12" font-weight="400" text-anchor="middle">第 4 名</text>
+<rect x="608.0" y="530" width="52" height="22" fill="#fff" stroke="#e08a1e" stroke-width="1.5" rx="11" stroke-dasharray="4 3"/>
+<text x="634.0" y="546" fill="#e08a1e" font-size="12.5" font-weight="600" text-anchor="middle">探索</text>
+<text x="40" y="600" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">C、E：他沒買過，但「像他的人」都買 → 高分 → 主力推薦。對他來說這就是新東西。</text>
+<text x="40" y="620" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">F：像他的人明顯不買 → 負分。D：沒什麼關係 → 接近 0，有證據的「沒興趣」。</text>
+<text x="40" y="640" fill="#e08a1e" font-size="12.5" font-weight="600" text-anchor="start">G：新品，還沒人買過 → 向量停在原點附近 → 分數也接近 0。但這是「不知道」，不是「沒興趣」。</text>
+<text x="40" y="660" fill="#222" font-size="12.5" font-weight="400" text-anchor="start">D 和 G 分數差不多、意思完全不同：內積分不出來 → 系統另外撥一小部分流量給 G 試水溫（探索）。</text>
+<text x="700" y="372" fill="#222" font-size="13" font-weight="600" text-anchor="start">三件事</text>
+<text x="700" y="396" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">空格 ≠ 0，是「還沒發生」</text>
+<text x="700" y="418" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">每個空格都有分數（內積）</text>
+<text x="700" y="440" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">分數 ＝ 預測的喜好度</text>
+<text x="700" y="462" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">推的永遠是空格：</text>
+<text x="700" y="484" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">　已買的不用推</text>
+<text x="700" y="506" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">高分空格 ＝ 最可能成交的新東西</text>
+<text x="700" y="528" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">低分 ＝ 像他的人不買</text>
+<text x="700" y="550" fill="#555" font-size="12.5" font-weight="400" text-anchor="start">近 0 且沒資料 ＝ 不知道 → 探索</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkN2Y3YjUzOS0yMzQwLTQxZDUtOTc5Mi1jNTdlMDNmZTk3MzEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDJ97+fFyywf7eczh/voLlEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkYzQ1Yjg2Mi1kNGM5LTQ4ZDItODc1YS04YzhhMTU3NmNmNDBscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoJ/qq0nApxMg3lk4eH1BejQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggYN5rmU0nvbfIvJuD9i6mQ4bBVCgHWgZCnYBd78LH0IGkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaK4ke3JCq43X7IIfkQStA1cAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIF0AGJS4ljDRmsDq/Qzj0GiJ18TiXZLlY4x1er4/PsCYZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GUswZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQ3ZjdiNTM5LTIzNDAtNDFkNS05NzkyLWM1N2UwM2ZlOTczMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjE1NWMzMTRmLWE4OGYtNDhlMS1iZDgwLTFjODYxYzM2NDkxYnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBg3muZTSe9t8i8m4P2LqZDhsFUKAdaBkKdgF3vwsfQgaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggfGQ0xpCEhqRdKZtBEdj8NuTYAVsHlzGZPu6fZRGQuJeiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggZ8TSs5R623yCHQ3N1ojpOliGZhod7rEi4pQjB+yQ+lx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJmyA8iLiceq8+gbWJIn8n7MB4Pyh024A74No0Cq1N4/GTraWT8nQGrz2sMeQ/rrRlWPT/kpDzUqUEhoityELxU=</c2pa:manifest></metadata></svg>

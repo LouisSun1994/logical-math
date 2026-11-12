@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640" font-family="-apple-system, 'PingFang TC', 'Noto Sans TC', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<rect width="980" height="640" fill="#fff"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs>
+<text x="30" y="40" fill="#222" font-size="15" font-weight="600" text-anchor="start">① 一種口味（d = 1）：每格 = 客人的數 × 商品的數</text>
+<text x="196.0" y="58" fill="#222" font-size="13" font-weight="400" text-anchor="start"></text>
+<rect x="96" y="64" width="50" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="121.0" y="86" fill="#222" font-size="13" font-weight="600" text-anchor="middle">A</text>
+<rect x="146" y="64" width="50" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="171.0" y="86" fill="#222" font-size="13" font-weight="600" text-anchor="middle">B</text>
+<rect x="196" y="64" width="50" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="221.0" y="86" fill="#222" font-size="13" font-weight="600" text-anchor="middle">C</text>
+<rect x="246" y="64" width="50" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="271.0" y="86" fill="#222" font-size="13" font-weight="600" text-anchor="middle">D</text>
+<rect x="52" y="98" width="44" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="74" y="120" fill="#222" font-size="13" font-weight="600" text-anchor="middle">甲</text>
+<rect x="96" y="98" width="50" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="121.0" y="120" fill="#222" font-size="13" font-weight="400" text-anchor="middle">2</text>
+<rect x="146" y="98" width="50" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="171.0" y="120" fill="#222" font-size="13" font-weight="400" text-anchor="middle">1</text>
+<rect x="196" y="98" width="50" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="221.0" y="120" fill="#222" font-size="13" font-weight="400" text-anchor="middle">3</text>
+<rect x="246" y="98" width="50" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="271.0" y="120" fill="#222" font-size="13" font-weight="400" text-anchor="middle">4</text>
+<rect x="52" y="132" width="44" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="74" y="154" fill="#222" font-size="13" font-weight="600" text-anchor="middle">乙</text>
+<rect x="96" y="132" width="50" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="121.0" y="154" fill="#222" font-size="13" font-weight="400" text-anchor="middle">4</text>
+<rect x="146" y="132" width="50" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="171.0" y="154" fill="#222" font-size="13" font-weight="400" text-anchor="middle">2</text>
+<rect x="196" y="132" width="50" height="34" fill="#ffe08a" stroke="#bbb" stroke-width="1"/>
+<text x="221.0" y="154" fill="#222" font-size="13" font-weight="400" text-anchor="middle">6</text>
+<rect x="246" y="132" width="50" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="271.0" y="154" fill="#222" font-size="13" font-weight="400" text-anchor="middle">8</text>
+<rect x="52" y="166" width="44" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="74" y="188" fill="#222" font-size="13" font-weight="600" text-anchor="middle">丙</text>
+<rect x="96" y="166" width="50" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="121.0" y="188" fill="#222" font-size="13" font-weight="400" text-anchor="middle">6</text>
+<rect x="146" y="166" width="50" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="171.0" y="188" fill="#222" font-size="13" font-weight="400" text-anchor="middle">3</text>
+<rect x="196" y="166" width="50" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="221.0" y="188" fill="#222" font-size="13" font-weight="400" text-anchor="middle">9</text>
+<rect x="246" y="166" width="50" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="271.0" y="188" fill="#222" font-size="13" font-weight="400" text-anchor="middle">12</text>
+<text x="52" y="222" fill="#555" font-size="13" font-weight="400" text-anchor="start">原始表：12 格，每格都要存</text>
+<text x="52" y="244" fill="#555" font-size="13" font-weight="400" text-anchor="start">乙 = 2 × 甲、丙 = 3 × 甲 → 只有 1 列獨立 → 秩 1</text>
+<line x1="326" y1="120" x2="436" y2="120" stroke="#555" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="381" y="112" fill="#555" font-size="12" font-weight="400" text-anchor="middle">壓縮：只存向量</text>
+<line x1="436" y1="154" x2="326" y2="154" stroke="#555" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="381" y="172" fill="#555" font-size="12" font-weight="400" text-anchor="middle">解壓縮：內積算回一格</text>
+<rect x="538" y="64" width="50" height="34" fill="#fdeef0" stroke="#d1495b" stroke-width="1"/>
+<text x="563.0" y="79" fill="#d1495b" font-size="11" font-weight="600" text-anchor="middle">A</text>
+<text x="563.0" y="94" fill="#d1495b" font-size="12" font-weight="400" text-anchor="middle">2</text>
+<rect x="588" y="64" width="50" height="34" fill="#fdeef0" stroke="#d1495b" stroke-width="1"/>
+<text x="613.0" y="79" fill="#d1495b" font-size="11" font-weight="600" text-anchor="middle">B</text>
+<text x="613.0" y="94" fill="#d1495b" font-size="12" font-weight="400" text-anchor="middle">1</text>
+<rect x="638" y="64" width="50" height="34" fill="#ffe08a" stroke="#d1495b" stroke-width="1"/>
+<text x="663.0" y="79" fill="#d1495b" font-size="11" font-weight="600" text-anchor="middle">C</text>
+<text x="663.0" y="94" fill="#d1495b" font-size="12" font-weight="400" text-anchor="middle">3</text>
+<rect x="688" y="64" width="50" height="34" fill="#fdeef0" stroke="#d1495b" stroke-width="1"/>
+<text x="713.0" y="79" fill="#d1495b" font-size="11" font-weight="600" text-anchor="middle">D</text>
+<text x="713.0" y="94" fill="#d1495b" font-size="12" font-weight="400" text-anchor="middle">4</text>
+<rect x="476" y="98" width="62" height="34" fill="#eaf1fc" stroke="#1f5fbf" stroke-width="1"/>
+<text x="484" y="120" fill="#1f5fbf" font-size="13" font-weight="600" text-anchor="start">甲  1</text>
+<rect x="538" y="98" width="50" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="588" y="98" width="50" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="638" y="98" width="50" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="688" y="98" width="50" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="476" y="132" width="62" height="34" fill="#ffe08a" stroke="#1f5fbf" stroke-width="1"/>
+<text x="484" y="154" fill="#1f5fbf" font-size="13" font-weight="600" text-anchor="start">乙  2</text>
+<rect x="538" y="132" width="50" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="588" y="132" width="50" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="638" y="132" width="50" height="34" fill="#ffe08a" stroke="#c9a400" stroke-width="1.5"/>
+<text x="663.0" y="154" fill="#222" font-size="13" font-weight="600" text-anchor="middle">6</text>
+<rect x="688" y="132" width="50" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="476" y="166" width="62" height="34" fill="#eaf1fc" stroke="#1f5fbf" stroke-width="1"/>
+<text x="484" y="188" fill="#1f5fbf" font-size="13" font-weight="600" text-anchor="start">丙  3</text>
+<rect x="538" y="166" width="50" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="588" y="166" width="50" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="638" y="166" width="50" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="688" y="166" width="50" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="476" y="54" fill="#222" font-size="12" font-weight="600" text-anchor="start">壓縮檔：只存藍色（客人向量）與紅色（商品向量）</text>
+<text x="476" y="222" fill="#222" font-size="13" font-weight="600" text-anchor="start">解壓縮（乙, C）：2 × 3 = 6</text>
+<text x="476" y="244" fill="#555" font-size="13" font-weight="400" text-anchor="start">灰格不用存。存 3 + 4 = 7 個數，還原 12 格，零損失</text>
+<text x="30" y="310" fill="#222" font-size="15" font-weight="600" text-anchor="start">② 兩種口味（d = 2）：每格 = 兩次相乘再加 = 內積</text>
+<text x="208.0" y="328" fill="#222" font-size="13" font-weight="400" text-anchor="start"></text>
+<rect x="96" y="334" width="56" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="124.0" y="356" fill="#222" font-size="13" font-weight="600" text-anchor="middle">A</text>
+<rect x="152" y="334" width="56" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="180.0" y="356" fill="#222" font-size="13" font-weight="600" text-anchor="middle">B</text>
+<rect x="208" y="334" width="56" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="236.0" y="356" fill="#222" font-size="13" font-weight="600" text-anchor="middle">C</text>
+<rect x="264" y="334" width="56" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="292.0" y="356" fill="#222" font-size="13" font-weight="600" text-anchor="middle">D</text>
+<rect x="52" y="368" width="44" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="74" y="390" fill="#222" font-size="13" font-weight="600" text-anchor="middle">甲</text>
+<rect x="96" y="368" width="56" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="124.0" y="390" fill="#222" font-size="13" font-weight="400" text-anchor="middle">5</text>
+<rect x="152" y="368" width="56" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="180.0" y="390" fill="#222" font-size="13" font-weight="400" text-anchor="middle">4</text>
+<rect x="208" y="368" width="56" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="236.0" y="390" fill="#222" font-size="13" font-weight="400" text-anchor="middle">7</text>
+<rect x="264" y="368" width="56" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="292.0" y="390" fill="#222" font-size="13" font-weight="400" text-anchor="middle">3</text>
+<rect x="52" y="402" width="44" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="74" y="424" fill="#222" font-size="13" font-weight="600" text-anchor="middle">乙</text>
+<rect x="96" y="402" width="56" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="124.0" y="424" fill="#222" font-size="13" font-weight="400" text-anchor="middle">5</text>
+<rect x="152" y="402" width="56" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="180.0" y="424" fill="#222" font-size="13" font-weight="400" text-anchor="middle">7</text>
+<rect x="208" y="402" width="56" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="236.0" y="424" fill="#222" font-size="13" font-weight="400" text-anchor="middle">6</text>
+<rect x="264" y="402" width="56" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="292.0" y="424" fill="#222" font-size="13" font-weight="400" text-anchor="middle">4</text>
+<rect x="52" y="436" width="44" height="34" fill="#fafafa" stroke="#bbb" stroke-width="1"/>
+<text x="74" y="458" fill="#222" font-size="13" font-weight="600" text-anchor="middle">丙</text>
+<rect x="96" y="436" width="56" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="124.0" y="458" fill="#222" font-size="13" font-weight="400" text-anchor="middle">8</text>
+<rect x="152" y="436" width="56" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="180.0" y="458" fill="#222" font-size="13" font-weight="400" text-anchor="middle">7</text>
+<rect x="208" y="436" width="56" height="34" fill="#ffe08a" stroke="#bbb" stroke-width="1"/>
+<text x="236.0" y="458" fill="#222" font-size="13" font-weight="400" text-anchor="middle">11</text>
+<rect x="264" y="436" width="56" height="34" fill="#fff" stroke="#bbb" stroke-width="1"/>
+<text x="292.0" y="458" fill="#222" font-size="13" font-weight="400" text-anchor="middle">5</text>
+<text x="52" y="492" fill="#555" font-size="13" font-weight="400" text-anchor="start">原始表：12 格，每格都要存</text>
+<text x="52" y="514" fill="#555" font-size="13" font-weight="400" text-anchor="start">丙 = 1.4 × 甲 + 0.2 × 乙 → 2 列獨立 → 秩 2</text>
+<line x1="350" y1="390" x2="460" y2="390" stroke="#555" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="405" y="382" fill="#555" font-size="12" font-weight="400" text-anchor="middle">壓縮：只存向量</text>
+<line x1="460" y1="424" x2="350" y2="424" stroke="#555" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="405" y="442" fill="#555" font-size="12" font-weight="400" text-anchor="middle">解壓縮：內積算回一格</text>
+<rect x="592" y="334" width="56" height="34" fill="#fdeef0" stroke="#d1495b" stroke-width="1"/>
+<text x="620.0" y="349" fill="#d1495b" font-size="11" font-weight="600" text-anchor="middle">A</text>
+<text x="620.0" y="364" fill="#d1495b" font-size="12" font-weight="400" text-anchor="middle">(2, 1)</text>
+<rect x="648" y="334" width="56" height="34" fill="#fdeef0" stroke="#d1495b" stroke-width="1"/>
+<text x="676.0" y="349" fill="#d1495b" font-size="11" font-weight="600" text-anchor="middle">B</text>
+<text x="676.0" y="364" fill="#d1495b" font-size="12" font-weight="400" text-anchor="middle">(1, 2)</text>
+<rect x="704" y="334" width="56" height="34" fill="#ffe08a" stroke="#d1495b" stroke-width="1"/>
+<text x="732.0" y="349" fill="#d1495b" font-size="11" font-weight="600" text-anchor="middle">C</text>
+<text x="732.0" y="364" fill="#d1495b" font-size="12" font-weight="400" text-anchor="middle">(3, 1)</text>
+<rect x="760" y="334" width="56" height="34" fill="#fdeef0" stroke="#d1495b" stroke-width="1"/>
+<text x="788.0" y="349" fill="#d1495b" font-size="11" font-weight="600" text-anchor="middle">D</text>
+<text x="788.0" y="364" fill="#d1495b" font-size="12" font-weight="400" text-anchor="middle">(1, 1)</text>
+<rect x="500" y="368" width="92" height="34" fill="#eaf1fc" stroke="#1f5fbf" stroke-width="1"/>
+<text x="508" y="390" fill="#1f5fbf" font-size="13" font-weight="600" text-anchor="start">甲  (2, 1)</text>
+<rect x="592" y="368" width="56" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="648" y="368" width="56" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="704" y="368" width="56" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="760" y="368" width="56" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="500" y="402" width="92" height="34" fill="#eaf1fc" stroke="#1f5fbf" stroke-width="1"/>
+<text x="508" y="424" fill="#1f5fbf" font-size="13" font-weight="600" text-anchor="start">乙  (1, 3)</text>
+<rect x="592" y="402" width="56" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="648" y="402" width="56" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="704" y="402" width="56" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="760" y="402" width="56" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="500" y="436" width="92" height="34" fill="#ffe08a" stroke="#1f5fbf" stroke-width="1"/>
+<text x="508" y="458" fill="#1f5fbf" font-size="13" font-weight="600" text-anchor="start">丙  (3, 2)</text>
+<rect x="592" y="436" width="56" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="648" y="436" width="56" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="704" y="436" width="56" height="34" fill="#ffe08a" stroke="#c9a400" stroke-width="1.5"/>
+<text x="732.0" y="458" fill="#222" font-size="13" font-weight="600" text-anchor="middle">11</text>
+<rect x="760" y="436" width="56" height="34" fill="#f4f4f4" stroke="#ddd" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="500" y="324" fill="#222" font-size="12" font-weight="600" text-anchor="start">壓縮檔：只存藍色（客人向量）與紅色（商品向量）</text>
+<text x="500" y="492" fill="#222" font-size="13" font-weight="600" text-anchor="start">解壓縮（丙, C）：(3, 2)·(3, 1) = 3·3 + 2·1 = 11</text>
+<text x="500" y="514" fill="#555" font-size="13" font-weight="400" text-anchor="start">小表不划算（6 + 8 = 14 個數 > 12 格）；大表才省</text>
+<text x="30" y="580" fill="#222" font-size="13" font-weight="600" text-anchor="start">真實規模：100 萬客人 × 10 萬商品 = 1000 億格　→　(100 萬 + 10 萬) × 64 維 ≈ 7040 萬個數。</text>
+<text x="30" y="602" fill="#555" font-size="13" font-weight="400" text-anchor="start">能這樣做的前提：表是低秩的（獨立花樣遠少於欄數）。空格沒有被存，但內積照樣算得出值——這就是「猜空格」。</text>
+<text x="30" y="624" fill="#555" font-size="13" font-weight="400" text-anchor="start">向量的每一軸 = 一種口味（無名）；藍色 = 這個客人對各口味的偏好，紅色 = 這件商品含各口味的量。</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3YTM3YmUzNC02ZmFmLTRjZTctYmE3My0wOWYwNzc1YWUyM2IAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHlCxKoW1c49E8AMpeHI4/8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3MGU4YWUwYy04OTNmLTQ4ODUtOWJkMy01NmMyNjUxZjk2ZWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNop0y0qdDu897vn75gtnoa1QAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggd8/gRfb2j61khtXzJlpNAAYMFxmTOzhczraMqYk4WD6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJjEpgDHFr+7j9g4DkAFbx4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIAF9eTVsK0/SrpQ07f0p+cYZTQ+AELMWd+0Iaz91Nak0ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GUWPZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjdhMzdiZTM0LTZmYWYtNGNlNy1iYTczLTA5ZjA3NzVhZTIzYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjA3MTI0Y2MwLWIxNjMtNDc2NS1hMzk5LWZhMjBmODRlNzgwY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB3z+BF9vaPrWSG1fMmWk0ABgwXGZM7OFzOtoypiThYPqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggRwmPHz4SgDy8Vg5lNssXbj2S9kbuhUy+fjseJ9DJ4y2iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggHu3SXs1cPcI8Zg0MSmtKQVMn3mwn3K0L9v9wIw9MwBl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLD5xLeo/rp6kWJ/Q+ZRbXPbI6rP6a3I9Re7wqUPW83XFoLLjOnV0f3aOpijNULwtvPpFgWxr8Z9KLhWuBWQ/oM=</c2pa:manifest></metadata></svg>
