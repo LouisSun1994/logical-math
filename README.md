@@ -2,6 +2,8 @@
 
 數學學習日誌。走的是**邏輯輪廓**路線：只要概念、結構、為什麼，不發展計算技術。這是一本**回顧集**：目的是弄懂底層的邏輯框架，收錄的是多次來回校正後確認過的概念框架——正確、有效、有意義的理解，不是練習簿，所以筆記裡沒有待填的空格。從機率基礎、統計推論、RTP / 獎池的應用模型，一路到複數、向量、數理邏輯，再從向量線延伸到 LLM 訓練裡的梯度與損失函式，以及向量當表示（embedding、相似度、推薦）與推薦空間怎麼來（低秩、矩陣分解、訓練），記錄概念、被校正過的混淆與每個主題的一句話濃縮版。另有 `asides/`（趣談）收時事或閒聊引出的後設討論——談數學本身、數學界、AI 與數學——獨立編號，不進路線圖。
 
+> **A note on AI use.** The notes in this repo are drafted by an AI tutor, but this is not AI slop. Each note comes out of a dialogue in which the tutor deduced the topic from a seed definition and I restated it in my own words until the restatement held up. I have read every note and understand all of it; the confusions each one records are my own. Items I am still working through are marked 🔄, and content that has not been confirmed with the tutor yet is marked `補強`.
+
 ## 背景
 
 - 後端 / 基礎設施背景，非數學本科。微積分只當記號理解（Σ 的連續版）
